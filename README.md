@@ -21,8 +21,8 @@ the schema can either be exposing mock data, or wrapping a public REST API resou
 #### How to Start
 1) First go towards the backend directory, and install the dependancies by entering 'yarn install'
 2) Then start the server by entering 'node index.js' which will start an Apollo instance on localhost:4000
-3) Change directory to the frontend directory and install the dependancies by entering 'npm install'
-4) Start the client side by entering the command 'npm start'
+3) Change directory to the frontend directory and install the dependancies by entering 'yarn install'
+4) Start the client side by entering the command 'yarn start'
 
 #### List of Dependancies
 1) Apollo Server Express
